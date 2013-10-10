@@ -1,13 +1,7 @@
 Colorteller
 ===========
-ColorTeller is a project that shows you quotes from web pages according to the
-colors that you wear. Ideally this piece is installed in a room with a projector
-and a camera. The motion tracking camera senses and calculates the color of the
-audience and sends this information to the custom built software. This
-information, then, with the help of this custom software sent to google and
-parsed through different web pages. Finally, sentences from those pages which
-are related to colors are displayed on the screen in different typographical
-ways.
+ColorTeller uses color keywords to send google as queries to search and scrape resulting websites and grab passages related to these colors and displays it on the screen. It cna be imported to Eclipse to run. 
 
-The software is built in Processing in 2006. 
+The software is built in Processing in 2007 for Interactive Telecommunications Program. 
+
 ![screenshot](colorteller1.jpg)
